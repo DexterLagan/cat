@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"dexte"
+	],
+	"copyright": "Copyright © 2020, dexte",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "cat"
+}
