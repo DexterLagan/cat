@@ -1,9 +1,9 @@
 {
 	"authors": [
-		"dexte"
+		"Dexter Santucci"
 	],
-	"copyright": "Copyright © 2020, dexte",
+	"copyright": "Copyright © 2020, Dexter Santucci",
 	"description": "A minimal D application.",
 	"license": "proprietary",
-	"name": "cat"
+	"name": "echo"
 }
